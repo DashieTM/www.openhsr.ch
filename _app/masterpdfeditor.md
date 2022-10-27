@@ -22,7 +22,7 @@ Die freie Version beinhaltet einige Einschränkungen, die den Funktionsumfang be
 ## Alternativen 
 Leider ist der Master PDF Editor nicht open source. Deswegen stellen wir hier noch eine Liste von Open Source Alternativen bereit:
 
-### Editors:
+### Editoren:
 
 - LibreOffice Draw: Ein mächtiges Tool welches PDF Erstellung sowie Anpassung einfach macht.<br>
 [Download](https://www.libreoffice.org/download/download-libreoffice/)
@@ -30,7 +30,7 @@ Leider ist der Master PDF Editor nicht open source. Deswegen stellen wir hier no
 - Xournal++: Dies ist ein eigentlich ein Notizen-programm, jedoch kann es auch PDFs öffnen und bearbeiten.<br>
 [Download](https://xournalpp.github.io/installation/)
 
-### Readers:
+### Reader:
 
 - Okular: Okular ist ein Cross Platform PDF Reader mit Annotationsmöglichkeiten.<br>
 [Download](https://okular.kde.org/download/)
